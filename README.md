@@ -26,7 +26,7 @@ Contributions to this repository are encouraged! If you have developed a bioinfo
 
 ## Contact
 
-If you have any questions, suggestions, or collaborations in mind, you can contact Naomi Kato at [naomi.kato@laelcorp.com](mailto:naomi.kato@laelcorp.com).
+If you have any questions, suggestions, or collaborations in mind, you can contact Naomi Kato at [naomi.kato@laelcorp.com](mailto:naomikato@lcorpnow.com).
 
 Thank you for being a part of the BioinformaticsTools-Toolkit community. Let's continue decoding life's mysteries through data and code!
 
